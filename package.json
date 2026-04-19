@@ -1,0 +1,22 @@
+{
+  "name": "cli-trivia-game",
+  "version": "1.0.0",
+  "description": "A command-line trivia game built with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "trivia",
+    "cli",
+    "game",
+    "quiz",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
